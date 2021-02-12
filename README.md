@@ -1,9 +1,8 @@
-# trainrezervasionapp
-C# train ticketing and reservasion app
+# Train ticketing and reservasion app
 
-I made this app for school project and wanted to share, coded in C# and SQL Server and app language is Turkish.
+I made this app for school project and wanted to share, coded in C# with SQL Server and app language is Turkish.
 
-# what the app has ? 
+# What the app has ? 
 3 account levels; admin, user, owner Owners can update accounts, delete accounts 
 Users can buy, view and cancel their tickets 
 Admins can reserve, buy, filter, search, print, cancel tickets 

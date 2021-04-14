@@ -20,6 +20,7 @@ Kullanıcı olarak giriş yapıldığında kullanıcı bilgileri rezervasyon for
 SQLQuery ile yazmadım SQL management uygulaması üzerinden elimle yaptım ilk uygulamam olduğu için bilmiyordum.
 
 Veritabanı oluşturması zor değil, kodu az biraz inceleyerek her şeye ulaşabilirsiniz.
+
 ---
 # English
 ## Train ticketing and reservasion app

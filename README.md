@@ -32,3 +32,8 @@ All users can change password and view their account information.
 
 When user log in some parts of buy form is auto-filled.
 
+---
+# SQLQuery
+I haven't used query for this made everything in the SQL Management app since this was my first app.
+
+It should be easy to create database, its not complicated.

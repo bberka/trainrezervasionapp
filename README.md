@@ -1,3 +1,4 @@
+## Turkish
 # Tren bilet rezervasyon otomasyonu
 Okul projesi olarak yaptım. C# ve SQL kullanıldı, uygulama Türkçedir.
 
@@ -15,6 +16,12 @@ Tüm hesaplar şifre değiştirebilir ve hesap bilgilerini görüntüleyebilirle
 Kullanıcı olarak giriş yapıldığında kullanıcı bilgileri rezervasyon formuna otomatik olarak girilir.
 
 ---
+# SQLQuery
+SQLQuery ile yazmadım SQL management uygulaması üzerinden elimle yaptım ilk uygulamam olduğu için bilmiyordum.
+
+Veritabanı oluşturması zor değil, kodu az biraz inceleyerek her şeye ulaşabilirsiniz.
+---
+## English
 # Train ticketing and reservasion app
 
 I made this app for school project and wanted to share, coded in C# with SQL Server and app language is Turkish.

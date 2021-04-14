@@ -1,8 +1,8 @@
-## Turkish
-# Tren bilet rezervasyon otomasyonu
+# Turkish
+## Tren bilet rezervasyon otomasyonu
 Okul projesi olarak yaptım. C# ve SQL kullanıldı, uygulama Türkçedir.
 
-# Neler var ?
+## Neler var ?
 3 farklı üyelik admin,kullanıcı ve sahip olarak.
 
 Kullanıcılar rezervasyon yapabilir, aldığı biletlere bakabilirler yada iptal edebilirler.
@@ -16,17 +16,17 @@ Tüm hesaplar şifre değiştirebilir ve hesap bilgilerini görüntüleyebilirle
 Kullanıcı olarak giriş yapıldığında kullanıcı bilgileri rezervasyon formuna otomatik olarak girilir.
 
 ---
-# SQLQuery
+## SQLQuery
 SQLQuery ile yazmadım SQL management uygulaması üzerinden elimle yaptım ilk uygulamam olduğu için bilmiyordum.
 
 Veritabanı oluşturması zor değil, kodu az biraz inceleyerek her şeye ulaşabilirsiniz.
 ---
-## English
-# Train ticketing and reservasion app
+# English
+## Train ticketing and reservasion app
 
 I made this app for school project and wanted to share, coded in C# with SQL Server and app language is Turkish.
 
-# What the app has ? 
+## What the app has ? 
 3 account levels; admin, user, owner Owners can update accounts, delete accounts.
 
 Users can buy, view and cancel their tickets.
@@ -40,7 +40,7 @@ All users can change password and view their account information.
 When user log in some parts of buy form is auto-filled.
 
 ---
-# SQLQuery
+## SQLQuery
 I haven't used query for this made everything in the SQL Management app since this was my first app.
 
 It should be easy to create database, its not complicated.
